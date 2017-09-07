@@ -1,0 +1,57 @@
+#home{
+    background-color: #595959;
+    color: #D9D5DA;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+    background-image: url("http://geek4cheap.ca/wp-content/uploads/2015/03/metal_dark_2.jpg");
+    
+}
+.header{
+    background-color: #858894;
+    background-image: url("https://i.ytimg.com/vi/yGEOXfRfLAo/maxresdefault.jpg");
+}
+.words{
+    columns: 2;
+    column-width: 16%;
+}
+.choice{
+    background-color: #A6A6A6;
+    width: 15%;
+    width: 100%;
+}
+.foot{
+    background-color: #0E0D0D;
+    padding: 5%;
+}
+button{
+    border: none;
+}
+nav{
+    background-color: #0E0D0D;
+    color: white;
+}
+.nav-link{
+    padding: 5%;
+    display: inline-block;
+    text-decoration: none;
+}
+.nav-link:hover{
+    background-color: #A6A6A6;
+    color: black;
+}
+.news{
+    margin:5%;
+    padding: 6%; 
+}
+.entertainment{
+    margin:5%;
+    padding: 6%; 
+}
+.lifestyle{
+    margin:5%;
+    padding: 6%; 
+}
+.icns{
+    padding: 3%;
+    font-size: 150%;
+}
